@@ -25,6 +25,14 @@ GCC: (Buildroot 2010.11) 4.3.5
 
 Python 2.4
 
+## Mini2440
+
+* http://www.friendlyarm.net/products/mini2440
+* http://wiki.linuxmce.org/index.php/Mini2440
+* https://elinux.org/Mini2440
+* https://github.com/xandroalmeida/Mini2440-Buildroot
+* http://repo.or.cz/w/qemu/mini2440.git
+
 ## WebSockets related
 
 libsoup 2.4 and websockets added in 2.50
